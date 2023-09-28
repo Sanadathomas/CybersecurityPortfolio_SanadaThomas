@@ -1,0 +1,5 @@
+print("I WILL PROGRESS WITHOUT STRUGGLE")
+print('I am becoming closer to my true self every day. Every challenge, loss, and success brings me closer to that goal')
+print("I am courageous, and I stand up for myself and for others who may need my help in doing so because it is the right thing to do.")
+print('I am creatively inspired by the world around me, and I can use that inspiration to achieve amazing things in my life.')
+print('My mind is full of brilliant ideas that I can use to benefit myself and others.')
